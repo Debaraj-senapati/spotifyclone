@@ -1,4 +1,13 @@
+
+
 {
-    "title":"Angry mood",
-    "description":"Angry songs for you"
+  "title": "Angry mood",
+  "description":"Angry songs for you",
+  "songs": [
+    "songs/Angry_mood/angry-robot-iii-113012.mp3",
+    "songs/Angry_mood/horror-train-15221.mp3",
+    "songs/Angry_mood/intense-battle-scene-115478.mp3",
+    "songs/Angry_mood/must-be-angry-259502.mp3",
+    "songs/Angry_mood/rebelote-375097.mp3"
+  ]
 }

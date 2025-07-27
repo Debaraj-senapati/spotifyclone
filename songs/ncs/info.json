@@ -1,4 +1,15 @@
+
 {
-    "title":"Together songs",
-    "description":"songs for you"
+    "title": "NCS Collection",
+    "description": "Free to use NCS tracks",
+    "songs": [
+       "songs/ncs/Bring It Together - Telecasted.mp3",
+       "songs/ncs/Clouds Lifting - Telecasted.mp3",
+
+"songs/ncs/Country Funk - Telecasted.mp3",
+"songs/ncs/For Our Friends - Telecasted.mp3",
+"songs/ncs/Merry Go Round - Telecasted.mp3",
+"songs/ncs/Tomorrow's Light - Telecasted.mp3",
+"songs/ncs/You and I - Telecasted.mp3"
+    ]
 }

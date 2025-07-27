@@ -1,4 +1,12 @@
+
+
+
 {
-    "title":"Sigma spotted",
-    "description":"Attitude songs for you"
+    "title": "sigma Collection",
+    "description": "attitude songs",
+    "songs": [
+      "songs/phonk_mood/mr-prime-facts7-phonk-291473.mp3",
+       "songs/phonk_mood/phonk-292971.mp3",
+       "songs/phonk_mood/phonk-phonk-2025-mix-313052.mp3"
+    ]
 }

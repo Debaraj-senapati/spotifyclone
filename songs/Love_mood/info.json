@@ -1,4 +1,12 @@
+
 {
-    "title":"Love mood",
-    "description":"Love songs for you"
+    "title": "Love mood",
+    "description": "Love songs for you",
+    "songs": [
+        "songs/Love_mood/bollywood-indian-hindi-song-music-370833.mp3",
+        "songs/Love_mood/bollywood-song-313044.mp3",
+        "songs/Love_mood/dil-me-chupi-old-bollywood-pop-music-2009-206524.mp3",
+        "songs/Love_mood/indian-hindi-beat-bollywood-music-373167.mp3",
+        "songs/Love_mood/indian-hindi-song-bollywood-music-351439.mp3"
+    ]
 }

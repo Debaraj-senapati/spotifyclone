@@ -1,4 +1,16 @@
+
+
+
+
+
 {
-    "title":"copyright songs",
-    "description":"cover songs for you"
+  "title": "CS Collection",
+  "description": "Free to use CS tracks",
+  "songs": [
+    "songs/cs/Heeriye-(Mr-Jat.in).mp3",
+    "songs/cs/Jai Shri Ram Full Song - Adipurush 128 Kbps.mp3"
+   
+    
+
+  ]
 }

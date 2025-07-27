@@ -1,5 +1,14 @@
 
-    {
-    "title":"chill mood",
-    "description":"Chill songs for you"
+
+
+{
+  "title": "chill mood",
+  "description": "chill songs for you",
+  "songs": [
+    "songs/chill_mood/chill-vibes-322180.mp3",
+    "songs/chill_mood/good-vibes-296342.mp3",
+    "songs/chill_mood/minimalism-chill-lofi-ambient-374830.mp3"
+    
+
+  ]
 }

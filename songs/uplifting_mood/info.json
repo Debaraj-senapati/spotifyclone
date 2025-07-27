@@ -1,4 +1,12 @@
+
+
+
 {
-    "title":"uplifting mood",
-    "description":"Moody songs for you"
+    "title": "uplifting mood",
+    "description": "moody songs for you",
+    "songs": [
+"songs/uplifting_mood/clover-feast-324019.mp3",
+"songs/uplifting_mood/simple-happy-life-353819.mp3",
+"songs/uplifting_mood/summer-is-coming-319071.mp3"
+    ]
 }

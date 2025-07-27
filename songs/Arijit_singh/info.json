@@ -1,4 +1,16 @@
+
+
+
+
+
 {
-    "title":"uplifting mood",
-    "description":"Moody songs for you"
+  "title": "Arijit singh sppecial",
+  "description": "Emotional songs",
+  "songs": [
+    "songs/Arijit_singh/Ae Dil Hai Mushkil-(Mr-Jat.in).mp3",
+    "songs/Arijit_singh/Bekhayali - Kabir Singh - 64Kbps-(Mr-Jat.in).mp3",
+    "songs/Arijit_singh/Chal Wahan Jaate Hain-(Mr-Jat.in).mp3",
+    "songs/Arijit_singh/Soch Liya - 64Kbps-(Mr-Jat.in).mp3"
+
+  ]
 }

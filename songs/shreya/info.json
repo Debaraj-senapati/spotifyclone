@@ -1,4 +1,15 @@
+
+
+
+
+
+
 {
-    "title":"uplifting mood",
-    "description":"Moody songs for you"
+    "title": "shreya goshal special",
+    "description": "Romantic",
+    "songs": [
+      "songs/shreya/Baarish Aayi Hai - 64Kbps-(Mr-Jat.in).mp3",
+      "songs/shreya/Sunn Raha Hai (Female) Aashiqui 2-(Mr-Jat.in).mp3",
+      "songs/shreya/Taare Ginn (Dil Bechara) - 64Kbps-(Mr-Jat.in).mp3"
+    ]
 }
